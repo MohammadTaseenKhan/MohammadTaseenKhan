@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**MohammadTaseenKhan/MohammadTaseenKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![7d9b1d662b28cd365b33a01a3d0288e1](https://user-images.githubusercontent.com/85288261/140610495-9caa0a0f-01c2-4842-9a00-b7f2d3a5965d.gif)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ ### **Mohammad Taseen Khan**
+----------------------------------------------------------------------------------------------------------------------
+Student And A learning Coder 😉
+----------------------------------------------------------------------------------------------------------------------
+▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩
+
+- 🔭 I’m currently working on  Cloning websites of different organizations
+- 🌱 I’m currently learning React
+- 🤔 I’m looking for help with  Payment Gateway 
+- 📫 How to reach me on 👇👇
+---------------------------------------------------------
+![Twitter URL](https://img.shields.io/twitter/url?style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FMDTaseenKhan) ![GitHub followers](https://img.shields.io/github/followers/MohammadTaseenKhan?style=for-the-badge) ![FaceBook](https://img.shields.io/badge/Facebook-MD%20Taseen%20Khan-blue?style=for-the-badge)
+---------------------------------------------------------
+
+⚡ Fun fact of me to my family is that I am always sleepy
+-----------😪😪👇👇
+----------------------------------------------------------------------------------------------------------
+![tenor](https://user-images.githubusercontent.com/85288261/140610659-e8136760-73af-402b-b3a0-cd039736a613.gif)
+----------------------------------------------------------------------------------------------------------
