@@ -14,7 +14,7 @@ Student And A learning Coder 😉
 - 🤔 I’m looking for help with  Payment Gateway 
 - 📫 How to reach me on 👇👇
 ---------------------------------------------------------
-![Twitter URL](https://img.shields.io/twitter/url?style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FMDTaseenKhan) ![GitHub followers](https://img.shields.io/github/followers/MohammadTaseenKhan?style=for-the-badge) ![FaceBook](https://img.shields.io/badge/Facebook-MD%20Taseen%20Khan-blue?style=for-the-badge)
+![https://twitter.com/MDTaseenKhan](https://img.shields.io/twitter/url?style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FMDTaseenKhan) ![GitHub followers](https://img.shields.io/github/followers/MohammadTaseenKhan?style=for-the-badge) ![https://www.facebook.com/mdtaseen.khan.77](https://img.shields.io/badge/Facebook-MD%20Taseen%20Khan-blue?style=for-the-badge)
 ---------------------------------------------------------
 
 ⚡ Fun fact of me to my family is that I am always sleepy
