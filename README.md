@@ -1,6 +1,6 @@
 
 
-![7d9b1d662b28cd365b33a01a3d0288e1](https://user-images.githubusercontent.com/85288261/140610495-9caa0a0f-01c2-4842-9a00-b7f2d3a5965d.gif)
+<p align="center"><img src="https://user-images.githubusercontent.com/85288261/140610495-9caa0a0f-01c2-4842-9a00-b7f2d3a5965d.gif" alt="Bt">
 
 
 
