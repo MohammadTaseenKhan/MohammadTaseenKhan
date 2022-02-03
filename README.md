@@ -44,8 +44,15 @@
 </p>
 
 
-### ⚡ Fun fact of me to my family is that I am always sleepy -----------😪😪👇👇
 
-<p align="center"><img src="https://user-images.githubusercontent.com/85288261/140610659-e8136760-73af-402b-b3a0-cd039736a613.gif" alt="Bt">
+<h2 align='center'>Performance</h2>
+
+[![Taseen's github activity graph](https://activity-graph.herokuapp.com/graph?username=MohammadTaseenKhan&theme=react-dark)](https://github.com/MohammadTaseenKhan/github-readme-activity-graph)
+
+
+
+
+
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
