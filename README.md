@@ -7,13 +7,15 @@
     <br />
   </div>
 
-![85288261-modified](https://user-images.githubusercontent.com/85288261/152398413-f0381eb3-c3f9-4297-a306-bfbce2c303d4.png)
+  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/85288261/152398413-f0381eb3-c3f9-4297-a306-bfbce2c303d4.png" width="200px">
+  <h3 align="center">MD Taseen Khan</h3>
+  <p align="center">Student And A learning Coder wink</p>
+  <p align="center"><a align="center" href="https://www.facebook.com/mdtaseen.khan.77">Visit on Facebook »</a></p>
+  <br />
+</p>  
 
-
-
-[Mohammad Taseen Khan](https://www.facebook.com/mdtaseen.khan.77)
-----------------------------------------------------------------------------------------------------------------------
-Student And A learning Coder 😉
 ----------------------------------------------------------------------------------------------------------------------
 ### KNOW MORE ABOUT ME>>>>
 <p align="center"><a href="https://github.com/MohammadTaseenKhan/"><img title="Icon" src="https://github-readme-stats.vercel.app/api?username=MohammadTaseenKhan&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
