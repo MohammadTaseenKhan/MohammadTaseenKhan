@@ -1,6 +1,13 @@
+<div id="top"></div>
 
+<br />
+<div align="">
+  <div align="right">
+    <img src="https://profile-counter.glitch.me/%7BMohammadTaseenKhan%7D/count.svg">
+    <br />
+  </div>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/85288261/140610495-9caa0a0f-01c2-4842-9a00-b7f2d3a5965d.gif" alt="Bt">
+![85288261-modified](https://user-images.githubusercontent.com/85288261/152398413-f0381eb3-c3f9-4297-a306-bfbce2c303d4.png)
 
 
 
@@ -9,7 +16,7 @@
 Student And A learning Coder 😉
 ----------------------------------------------------------------------------------------------------------------------
 ### KNOW MORE ABOUT ME>>>>
-<p align="center"><a href="https://github.com/MohammadTaseenKhan/"><img title="Noob HAckers" src="https://github-readme-stats.vercel.app/api?username=MohammadTaseenKhan&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<p align="center"><a href="https://github.com/MohammadTaseenKhan/"><img title="Icon" src="https://github-readme-stats.vercel.app/api?username=MohammadTaseenKhan&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
   
   ▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩
@@ -39,3 +46,4 @@ Student And A learning Coder 😉
 
 <p align="center"><img src="https://user-images.githubusercontent.com/85288261/140610659-e8136760-73af-402b-b3a0-cd039736a613.gif" alt="Bt">
 
+<p align="right">(<a href="#top">back to top</a>)</p>
