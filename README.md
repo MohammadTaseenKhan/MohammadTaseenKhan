@@ -35,9 +35,13 @@
 
 
 <p align="center">
-<a href="#"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
+<a href="#"><img title="whatsapp (not available)" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
 </p>
 
+
+<p align="center">
+<a href="https://twitter.com/MDTaseenKhan"><img title="twitter" src="https://img.shields.io/static/v1?label=&message=Twitter&color=ffffff&logo=twitter"></a>
+</p>
 
 <p align="center">
 <a href="https://github.com/MohammadTaseenKhan"><img title="MohammadTaseenKhan" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadTaseenKhan&layout=compact"></a>
