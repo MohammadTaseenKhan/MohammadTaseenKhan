@@ -35,7 +35,7 @@
 
 
 <p align="center">
-<a href="#"><img title="whatsapp (not available)" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/message/QMBLCTXNY3ZBO1"><img title="whatsapp (not available)" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
 </p>
 
 
