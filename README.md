@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/85288261/152398413-f0381eb3-c3f9-4297-a306-bfbce2c303d4.png" width="200px">
   <h3 align="center">MD Taseen Khan</h3>
-  <p align="center">Student And A learning Coder wink</p>
+  <p align="center">Student And A learning Coder</p>
   <p align="center"><a align="center" href="https://www.facebook.com/mdtaseen.khan.77">Visit on Facebook »</a></p>
   <br />
 </p>  
