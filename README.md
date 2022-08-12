@@ -12,7 +12,7 @@
   <img src="https://user-images.githubusercontent.com/85288261/152398413-f0381eb3-c3f9-4297-a306-bfbce2c303d4.png" width="200px">
   <h3 align="center">MD Taseen Khan</h3>
   <p align="center">Student And A learning Coder</p>
-  <p align="center"><a align="center" href="https://www.facebook.com/mdtaseen.khan.77">Visit on Facebook »</a></p>
+  <p align="center"><a align="center" href="https://www.facebook.com/MDTaseenKhanBD">Visit on Facebook »</a></p>
   <br />
 </p>  
 
@@ -29,13 +29,8 @@
 - 📫 How to reach me on 👇👇
 
 <p align="center">
-<a href="https://www.facebook.com/mdtaseen.khan.77"><img title="Facebook" src="https://img.shields.io/badge/MohammadTaseenKhan-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://www.youtube.com/channel/UCAXcgXXsk8Ic6hBaASObjig?sub_confirmation=1"><img title="YouTube" src="https://img.shields.io/badge/YouTube-MohammadTaseenKhan-red?style=for-the-badge&logo=Youtube"></a>
-</p>
+<a href="https://www.facebook.com/MDTaseenKhanBD"><img title="Facebook" src="https://img.shields.io/badge/MohammadTaseenKhan-brightgreen?style=for-the-badge&logo=facebook"></a>
 
-
-<p align="center">
-<a href="https://wa.me/message/QMBLCTXNY3ZBO1"><img title="whatsapp (not available)" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
 </p>
 
 
