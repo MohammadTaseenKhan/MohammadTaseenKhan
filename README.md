@@ -17,10 +17,22 @@
   <br />
 </p>  
 
-----------------------------------------------------------------------------------------------------------------------
-### KNOW MORE ABOUT ME>>>>
+
+# GitHub Stats:
+
 <p align="center"><a href="https://github.com/MohammadTaseenKhan/"><img title="Icon" src="https://github-readme-stats.vercel.app/api?username=MohammadTaseenKhan&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
+<p align="center"><a href="https://github.com/MohammadTaseenKhan/"><img title="Icon" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadTaseenKhan&theme=chartreuse-dark&hide_border=false"></a>
+</p>
+
+
+
+<p align="center"><a href="https://github.com/MohammadTaseenKhan/"><img title="Icon" src="https://github-profile-trophy.vercel.app/?username=MohammadTaseenKhan&theme=radical&no-frame=false&no-bg=false&margin-w=4"></a>
+</p>
+
+----------------------------------------------------------------------------------------------------------------------
+### KNOW MORE ABOUT ME>>>>
+
   
   ▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩
 
