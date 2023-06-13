@@ -41,10 +41,6 @@
 - 🤔 I’m looking for help with  Payment Gateway 
 - 📫 How to reach me on 👇👇
 
-<p align="center">
-<a href="https://www.facebook.com/MDTaseenKhanBD"><img title="Facebook" src="https://img.shields.io/badge/MohammadTaseenKhan-brightgreen?style=for-the-badge&logo=facebook"></a>
-
-</p>
 
 
 <p align="center">
